@@ -4,9 +4,12 @@ Mã nguồn các trang chính sách quyền riêng tư và hỗ trợ công khai
 
 - `index.html`: trang giới thiệu
 - `privacy.html`: chính sách quyền riêng tư
+- `deletion.html`: hướng dẫn và kênh yêu cầu xóa tài khoản
 - `support.html`: hỗ trợ và yêu cầu về tài khoản, dữ liệu
 
 URL công khai:
+
+- `https://thuanlo-legal.vercel.app/deletion.html`
 
 - `https://thuanlo-legal.vercel.app/privacy.html`
 - `https://thuanlo-legal.vercel.app/support.html`
